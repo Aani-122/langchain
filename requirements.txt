@@ -1,0 +1,7 @@
+langchain==0.1.9
+google-generativeai
+python-dotenv
+openai
+chromadb
+pinecone-client
+langchain_pinecone
